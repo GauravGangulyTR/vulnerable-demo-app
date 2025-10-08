@@ -1,0 +1,7 @@
+node_modules/
+uploads/
+*.log
+.DS_Store
+
+# NOTE: .env is NOT in gitignore - this is intentional vulnerability
+# In real projects, .env should ALWAYS be in .gitignore
